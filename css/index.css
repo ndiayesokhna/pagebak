@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+#banner-div {
+    background: linear-gradient(to right, #0D423D, #0CC7B5) !important;
+
+}
+
+
+
+#banner #img {
+    padding: 0 !important;
+}
+
+#programmes #div,
+footer {
+    background-color: #009688;
+}
+
+ .border-ifo {
+    border: 1px solid #009688 !important;
+    color: #009688 !important;
+}
+
+#nos-diplomes,
+#nos-activités,
+#nos-activités .btn {
+    background-color: #F44336 !important;
+}
+.elp{
+    text-align: center;
+}
+
+#nos-partenaires .container-fluid {
+    background-color: #EEF9F8;
+    
+}
+
+#nos-partenaires img {
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+    border-radius: 10px !important;
+}
